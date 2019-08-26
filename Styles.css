@@ -1,0 +1,27 @@
+body
+{
+    background-color: #ffebd3;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 5%;
+    margin-right: 5%;
+
+
+}
+
+
+hr{
+    border-style: none;
+    border-top-style: double;
+    width: 50%;
+    border-color: #c9610db7;
+    border-width: 5px;
+    text-align: left;
+    margin: 1%;
+
+}
+
+.Display{
+
+    border-radius: 100%;
+    
+}
